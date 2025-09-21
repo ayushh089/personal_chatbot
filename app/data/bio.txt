@@ -1,0 +1,118 @@
+Ayush Gupta 
+Contact Information
+
+Phone: 8923124304
+
+Email: guptaayush1280@gmail.com
+
+Early Academic Journey
+
+I grew up in Firozabad, Uttar Pradesh, where I completed my 10th (89.8% cbse) and 12th(94.4% cbse) board examinations in my hometown. From a young age, I was always fascinated by computers—not just as machines for consumption but as tools that could be programmed to create, automate, and solve problems.
+
+
+
+After my undergraduate degree, I prepared for the NIMCET examination and secured admission into the MCA program at NIT Bhopal.
+
+Currently, I am in my final year of MCA with a CGPA of 8.94, where I’ve focused on software engineering, backend development, and cloud technologies. My time at NIT Bhopal has been pivotal in collaborating on challenging projects and applying modern technologies to real-world systems.
+
+EDUCATION:
+- Class 10th from Kids Corner Happy Sr.Sec. School passed with 89.8% from CBSE Board in 2018.
+- Class 12TH from Kids Corner Happy Sr.Sec. School passed with 94.4% from CBSE Board in 2020.
+- B.Sc Hons Computer Science from Delhi University passed with 9.257 CGPA in 2023.
+- Currently in the Final year of Master's of Computer Application from Maulana Azad National Institute of Technology with a CGPA of 8.94 (2023-2026).
+
+
+
+Technical Skills & Core Competencies
+Backend Development
+
+Spring Boot for scalable REST APIs
+
+JWT + refresh tokens authentication flows
+
+Complex relational modeling with JPA/Hibernate
+
+
+Clean/Hexagonal Architecture
+
+Frontend Development
+
+React.js with Redux Toolkit
+
+Tailwind CSS and component libraries for UI
+
+Responsive and dynamic applications
+
+Cloud & Deployment
+
+AWS (EC2, S3, CloudFront)
+
+Nginx + SSL setup on Ubuntu
+
+Dockerized applications with CI/CD pipelines
+
+Blockchain Development
+
+Solidity, Hardhat, IPFS
+
+NFT-based prescriptions & EMRs
+
+Anti-counterfeit drug tracking with Merkle proofs
+
+Programming & Problem-Solving
+
+Languages: Java, Python, C++
+
+Strong foundation in DSA & competitive programming
+
+Major Projects
+HomeHub – Home Service Request Platform - Link : homehub.social
+
+Full-stack app with Spring Boot + React
+
+Features: OTP verification, JWT auth, secure payments
+
+AWS S3 for storage, EC2 deployment with Nginx + SSL
+
+Role-based dashboards (admin, providers, users)
+
+Blockchain-Based Healthcare System
+
+NFT-based Prescriptions – redeemable at pharmacies
+
+Electronic Medical Records (EMRs) – secure patient data storage
+
+Drug Traceability – NFT batches, Merkle proof verification
+
+Codora – Real-time Collaborative Code Editor - link : codora.vercel.app
+
+Multi-user real-time code editing & execution
+
+File upload/download support
+
+
+Problem-Solving & Research Interests
+
+Algorithms & competitive problem-solving
+
+Scalable system design (rate limiting, multi-tenant architectures)
+
+Blockchain research (healthcare, supply chain, secure data exchange)
+
+Geopolitics & technology policy
+
+Personal Life & Values
+
+Lifelong learner, adaptable, and disciplined
+
+Passion for innovation and building meaningful solutions
+
+Vision for the Future
+
+Master Blockchain Technology – expand applications beyond healthcare
+
+Build Scalable Products – secure, modular, high-impact systems
+
+Contribute to Open Source – share learnings with the community
+
+AI + Web3 Integration – smart and decentralized ecosystems

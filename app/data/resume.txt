@@ -1,0 +1,45 @@
+Ayush Gupta 
++91-8923124304 | guptaayush1280@gmail.com | Github | LinkedIn | Portfolio | Leetcode 
+EDUCATION 
+Maulana Azad National Institute of Technology (MANIT)                                                                  
+Master of Computer Applications 
+CGPA: 8.94 (as of 4th Semester) 
+Sri Guru Gobind Singh College of Commerce (University of Delhi)                                                 
+Bachelor of Science (Honours) in Computer Science 
+CGPA: 9.25 
+2023-2026 
+2020-2023 
+PROJECTS 
+HomeHub    Project Link or link : "homehub.social"
+Tech Stack: React, Spring Boot, Tailwind CSS, PostgreSQL (AWS RDS), JWT, Amazon S3, AWS EC2 
+• Engineered a full-stack home service platform, enabling residents to request, track, and review 
+services from verified providers with real-time updates and secure online payments. 
+• Designed and implemented a robust, JWT-secured, role-based system (Resident, Service Provider, 
+Society Admin, Platform Admin) using Spring Boot, empowering providers to manage availability and 
+admins to oversee operations efficiently. 
+• Designed an audit logging system for service history, ensuring traceability and accountability across 
+users. 
+• Deployed a scalable backend on AWS EC2, utilizing Amazon S3 for efficient media storage.  
+Codora   
+Tech Stack: React, Node.js, Socket.io, Code Mirror, Tailwind CSS 
+Project Link : "codora.vercel.app"
+• Scaled real-time collaborative code editor to support 300+ concurrent users with average socket latency 
+of 0.6 ms and 0% failure rate, validated through load testing (Artillery + Socket.io). 
+• Integrated chat and Socket-based collaboration features, enabling seamless communication and 
+synchronized editing across users. 
+• Added file system integration to upload, download, and manage code files, improving collaboration on 
+larger projects. 
+TECHNICAL SKILLS 
+Programming Languages: Java, JavaScript 
+Framework / Libraries: Spring Boot, Node.js, React, Tailwind CSS 
+Database: MySQL, PostgreSQL 
+Software & Tools: Git, GitHub, Postman  
+CS Fundamentals: Data Structures & Algorithm, OOPS, DBMS 
+RANKS & ACHIEVEMENTS 
+• Awarded 1st Position in Bug Byte League Hackathon (2023). 
+• Solved 500+ problems on platforms like Leetcode, GeeksforGeeks. 
+• Ranked in the Top 100 out of 4000+ teams in Code-Clash 2.0 Hackathon (2025). 
+• Secured All India Rank 303 out of 30,000+ candidates in NIMCET 2023. 
+INTERESTS 
+• Problem Solving and Building Projects for Personal Interest. 
+• Politics, Geopolitics. 
