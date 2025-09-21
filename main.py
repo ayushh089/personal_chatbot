@@ -6,18 +6,19 @@ from fastapi.middleware.cors import CORSMiddleware
 # FastAPI app
 app = FastAPI()
 
-# Allow frontend requests
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # React dev server
+    allow_origins=["http://localhost:5173", "https://guptaayushportfolio.netlify.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
+
 # Request model
 class QueryRequest(BaseModel):
     query: str
+
 
 # API endpoint
 @app.post("/chat")
